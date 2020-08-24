@@ -1,5 +1,5 @@
 # hackintosh-AMD
-hackintosh ASUS x570 3700x TX5700XT
+hackintosh ASUS x570 3700x RX5700XT
 
 Mi Pc
 * asus rog strix x570-f gaming
