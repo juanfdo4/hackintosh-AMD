@@ -11,3 +11,5 @@ Mi Pc
 En la carpeta "My EFI" esta el boot funcional con OSX Catalina 061-94403 - 10.15.6.
 
 Para ver como crear la USB les recomiendo ver el siguiente video, tambien les dejo los tools requeridos para ello.
+
+https://youtu.be/BqCYBdQWrY0
